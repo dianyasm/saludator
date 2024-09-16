@@ -1,8 +1,15 @@
 # Saludator
 
 ##  Descripcion
-Aplicacion web que te saluda por pantalla
+Ejercicio de una Aplicacion web que te saluda por pantalla
 
+## Tecnologías
+-html
+-css
+-js (vanilla)
+
+## Deploy en GitHub
+- https://dianyasm.github.io/saludator/
 ## Etapas
 
 ## Sprint 1
@@ -14,5 +21,11 @@ Aplicacion web que te saluda por pantalla
 
 ## Sprint 2
 
- - [ ] Mejorar la interfaz gráfica
+ - [x] Mejorar la interfaz gráfica
  - [x] Poner el confetti
+
+## git
+
+  git add .
+  git commit -m "xx"
+  git push origin master
